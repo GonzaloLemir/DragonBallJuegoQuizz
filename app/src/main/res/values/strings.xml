@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Dragon Quizz</string>
+    <string name="etnom">Nombre de Jugador</string>
+    <string name="boton">COMENZAR!!</string>
+    <string name="botones">Elegir!</string>
+    <string name="todo">TODO</string>
+    <string name="subirlvl">Nivel Superado!</string>
+    <string name="vidas">Vidas: </string>
+    <string name="jugador">Jugador: </string>
+    <string name="puntos">Puntaje: </string>
+    //ball
+    <string name="primero">Arale</string>
+    <string name="segundo">Bulma</string>
+    <string name="tercero">Videl</string>
+    <string name="cuarto">Milk</string>
+    //sayan
+    <string name="Sprimero">Bardok</string>
+    <string name="Ssegundo">Vegeta</string>
+    <string name="Stercero">Goku SS 3</string>
+    <string name="Scuarto">Raditz</string>
+    //freezer
+    <string name="Fprimero">Gohan Niño</string>
+    <string name="Fsegundo">Chaos</string>
+    <string name="Ftercero">Trunks Niño</string>
+    <string name="Fcuarto">Goku Niño</string>
+    //cell
+    <string name="Cprimero">Androide 17</string>
+    <string name="Csegundo">Androide 18</string>
+    <string name="Ctercero">Androide 19</string>
+    <string name="Ccuarto">Androide 20</string>
+    //buu
+    <string name="Bprimero">Majin Vegeta</string>
+    <string name="Bsegundo">Vegeta SS1</string>
+    <string name="Btercero">Super Vegeta</string>
+    <string name="Bcuarto">Vegetto</string>
+    //gt
+    <string name="Gprimero">Milk</string>
+    <string name="Gsegundo">Bra</string>
+    <string name="Gtercero">Bulma</string>
+    <string name="Gcuarto">Pan</string>
+    //super
+    <string name="Zprimero">Vegeta SS Blue</string>
+    <string name="Zsegundo">Vegeta SS 1</string>
+    <string name="Ztercero">Vegetto Blue</string>
+    <string name="Zcuarto">Super Vegeta</string>
+    //peliculas
+    <string name="Pprimero">Bardok</string>
+    <string name="Psegundo">Black</string>
+    <string name="Ptercero">Goku</string>
+    <string name="Pcuarto">Turles</string>
+</resources>
